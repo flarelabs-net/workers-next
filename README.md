@@ -1,3 +1,6 @@
+> [!Warning]
+> This example is no longer maintained, for examples on using `@opennextjs/cloudflare` see: https://github.com/opennextjs/opennextjs-cloudflare/tree/main/examples
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
